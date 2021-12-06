@@ -20,7 +20,9 @@ nav:
 - label: View page source
   icon: fas fa-file-code
   action: view-markdown
-
+  - label: New page
+  icon: fas fa-file-code
+ 
 # If a contact-us action is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form.
 contactForm:
