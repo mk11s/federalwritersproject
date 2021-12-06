@@ -1,7 +1,7 @@
 
 <param ve-config 
        title="Lasting Effects of the Federal Writers Project" 
-       banner="https://tile.loc.gov/storage-services/service/pnp/ppmsca/08700/08751v.jpg" 
+       banner="https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c35000/3c35500/3c35594r.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
